@@ -136,18 +136,7 @@ Open http://localhost:8080
 
 ---
 
-## 🧾 License
-MIT License — Free for all NGO and academic use.
-
----
-
-## 👥 Team
-- **Sushant Mishra** — Team Lead, Vision & Presentation  
-- **Member 2** — Backend Developer  
-- **Member 3** — Frontend & AI Integration  
-- **Member 4** — NGO Research & Validation
 
 ---
 
 ## ❤️ Built at HackChrono 2025
-*For truth. For safety. For community.*
