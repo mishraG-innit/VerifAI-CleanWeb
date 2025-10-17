@@ -1,0 +1,9 @@
+{
+  "token": "VID-1729150200-FAE91D2A",
+  "confidence": 91,
+  "status": "Deepfake suspected",
+  "risk": "High — Harassment",
+  "reason": "Lighting mismatch and facial edge artifacts detected",
+  "sha256": "c7e1ab2f9d0e7d8a...",
+  "platform_actions": ["YouTube", "Instagram", "Twitter"]
+}
